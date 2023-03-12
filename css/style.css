@@ -1,0 +1,53 @@
+.firstb{
+    background-color: #151515;
+}
+
+.frirstimg{
+    height:  40px;
+    margin-top: -7px;
+}
+
+.ser{
+    width: 300px;
+    padding-top: 4px;
+    padding-left: 17px;
+    padding-bottom: 4px;
+    border-radius: 10px;
+    border: none;
+}
+
+.serbot{
+    background-color: #FFC107;
+    border-radius: 10px;
+    padding: 4px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: none;
+    margin-left: -19px;
+}
+
+.signin{
+    text-decoration: none;
+    background-color: #FFC107;
+    color: black;
+    padding: 5px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 10px;
+}
+
+.signup{
+    text-decoration: none;
+    color: white;
+}
+
+.drop12{
+    background-color: #151515;
+    border: none;
+}
+
+.sopic{
+    color: white;
+    cursor: pointer;
+}
+
