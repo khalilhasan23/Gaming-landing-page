@@ -51,3 +51,12 @@
     cursor: pointer;
 }
 
+.navlink{
+    color: #AFB9B9;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.navlink:hover{
+    color: #FFC107;
+}
