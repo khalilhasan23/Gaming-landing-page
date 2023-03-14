@@ -60,3 +60,13 @@
 .navlink:hover{
     color: #FFC107;
 }
+
+.slidimg{
+    height: 750px;
+}
+.bslidbot{
+    background-color: #10131D;
+    margin-right: 45%;
+    margin-left: 45%;
+    border-radius: 20px;
+}
