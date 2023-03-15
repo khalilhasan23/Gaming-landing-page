@@ -74,3 +74,70 @@ body{
     margin-left: 45%;
     border-radius: 20px;
 }
+
+.car{
+    background-image: url(../img/bg_shape.png);
+}
+
+.ulia{
+    list-style: none;
+    display: flex;
+}
+
+.caraa{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.linnn{
+    background-color: white;
+    height: 21px;
+    width: 3px;
+    position: absolute;
+    margin-left: 65px;
+    margin-top: 6px;
+}
+
+.linnn2{
+    background-color: white;
+    height: 21px;
+    width: 3px;
+    position: absolute;
+    margin-left: 211px;
+    margin-top: 6px;
+}
+
+.cardimg{
+    height: 400px;
+    transition: all .7s;
+
+}
+
+.cardh3{
+    color: white;
+    cursor: pointer;
+}
+
+.cardp{
+    color: #FFC107;
+}
+
+.imghid{
+    background-color: #FFC107;
+    padding: 28px;
+    width: 269px;
+    position: absolute;
+    margin-top: -81px;
+    display: none;
+    transition: all 0.3s ease-in-out;
+}
+
+.cardimg:hover + .imghid{
+    display: block;
+}
+
+.cardimg:hover {
+    margin-top: -15px;
+}
