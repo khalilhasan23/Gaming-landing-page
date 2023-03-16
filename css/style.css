@@ -141,3 +141,68 @@ body{
 .cardimg:hover {
     margin-top: -15px;
 }
+
+.bag{
+    background-image: url(../img/cg-fl_01.jpg);
+    height: 500px;
+    width: 900px;
+    margin-left: 50px;
+}
+
+.bag2{
+    background-image: url(../img/cg-fl_03.jpg);
+    height: 500px;
+    width: 900px;
+}
+
+.bagp{
+    text-align: end;
+    font-family: cursive;
+    margin-top: 150px;
+}
+
+.bagh1{
+    text-align: end;
+    font-family: cursive;
+    margin-top: -18px;
+}
+
+.bagp2{
+    text-align: end;
+    color: #464C53;
+    font-family: cursive;
+}
+
+.baga{
+    text-decoration: none;
+    color:#3e3b3b;
+    margin-left: 700px;
+    border-style: solid;
+    border-radius: 30px;
+    padding: 9px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 10px;
+    transition: all .7s;
+    display: inline-block;
+}
+
+.baga:hover{
+    background-color: #3e3b3b;
+    color: white;
+    border-color:#3e3b3b;
+}
+
+
+.bag4{
+    background-image: url(../img/cg-fl_04.jpg);
+    height: 500px;
+    width: 900px;
+    margin-left: 50px;
+}
+
+.bag3{
+    background-image: url(../img/cg-fl_02.jpg);
+    height: 500px;
+    width: 900px;
+}
