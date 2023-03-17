@@ -206,3 +206,38 @@ body{
     height: 500px;
     width: 900px;
 }
+
+.sec5a{
+    text-decoration: none;
+    border-style: solid;
+    color: white;
+    border-radius: 5px;
+    padding: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: inline-block;
+    border-width: 1px;
+}
+
+.sec5a:hover{
+    color: #10131D;
+    background-color: white;
+}
+
+.sec5h3{
+    color: white;
+}
+
+.sec5p1{
+    display: contents;
+    color: #17a2b8;
+    font-size: 15px;
+}
+.sec5p2{
+    color: white;
+
+}
+
+#sec5ico{
+    color: #17a2b8;
+}
