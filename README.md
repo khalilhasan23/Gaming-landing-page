@@ -1,7 +1,7 @@
 # Gaming-landing-page
 
-## [site demo](https://khalilhasan23.github.io/Corporate-Business-landing-page/)
+## [site demo](https://khalilhasan23.github.io/Gaming-landing-page/)
 
 
 ## project screenshot
-![](https://github.com/khalilhasan23/Corporate-Business-landing-page/blob/main/screenshot.png)
+![](https://github.com/khalilhasan23/Gaming-landing-page/blob/main/Screenshot.png)
